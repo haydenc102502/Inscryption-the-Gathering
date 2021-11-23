@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+  <sets>
+  	<set>
+  	<name>INS</name>
+  	<longname>The Inscryption Card Game</longname>
+  	<settype>Custom</settype>
+  	<releasedate>2021-11-22</releasedate>
+	</set>
+  </sets>
+  <cards>
+  	<card>
+  		<name>[INS]Squirrel</name>
+  		<text>A worthy sacrifice</text>
+  		<prop>
+    		<layout>normal</layout>
+    		<side>front</side>
+    		<type>Creature - Squirrel</type>
+    		<maintype>Creature</maintype>
+    		<manacost>0</manacost>
+    		<cmc>0</cmc>
+    		<colors>G</colors>
+    		<coloridentity>G</coloridentity>
+    		<pt>0/1</pt>
+    		<format-standard>legal</format-standard>
+    		<format-commander>legal</format-commander>
+    		<format-modern>legal</format-modern>
+    		<format-pauper>legal</format-pauper>
+  		</prop>
+  		<set rarity="common" num="001" picurl="file:///C:/Users/hayde/OneDrive/Desktop/Squirrel.png">INS</set>
+  		<tablerow>2</tablerow>
+		</card>
+  </cards>
+</cockatrice_carddatabase>
