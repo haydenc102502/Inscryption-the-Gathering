@@ -27,7 +27,7 @@
     		<format-modern>legal</format-modern>
     		<format-pauper>legal</format-pauper>
   		</prop>
-  		<set rarity="common" num="001" picurl="file:///C:/Users/hayde/OneDrive/Desktop/Squirrel.png">INS</set>
+  		<set rarity="common" num="001">INS</set>
   		<tablerow>2</tablerow>
 		</card>
   </cards>
