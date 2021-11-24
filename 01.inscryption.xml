@@ -12,7 +12,7 @@
     <!--001 - Squirrel-->
   	<card>
   		<name>[INS]Squirrel</name>
-  		<text>A worthy sacrifice.</text>
+  		<text>Far from useless.</text>
   		<prop>
     		<layout>normal</layout>
     		<side>front</side>
@@ -50,7 +50,7 @@
     		<format-modern>legal</format-modern>
     		<format-pauper>legal</format-pauper>
   		</prop>
-  		<set rarity="common" num="002">INS</set>
+  		<set rarity="rare" num="002">INS</set>
   		<tablerow>2</tablerow>
 		</card>
 	<!--003 - Stinkbug-->
@@ -72,13 +72,13 @@
     		<format-modern>legal</format-modern>
     		<format-pauper>legal</format-pauper>
   		</prop>
-  		<set rarity="common" num="003">INS</set>
+  		<set rarity="rare" num="003">INS</set>
   		<tablerow>2</tablerow>
 		</card>
 	<!--004 - Stunted Wolf-->
 		<card>
   		<name>[INS]Stunted Wolf</name>
-  		<text>"Grab the film roll."</text>
+  		<text>"We meet again."</text>
   		<prop>
     		<layout>normal</layout>
     		<side>front</side>
@@ -94,7 +94,118 @@
     		<format-modern>legal</format-modern>
     		<format-pauper>legal</format-pauper>
   		</prop>
-  		<set rarity="common" num="004">INS</set>
+  		<set rarity="rare" num="004">INS</set>
+  		<tablerow>2</tablerow>
+		</card>
+	<!--005 - Wolf Cub-->
+		<card>
+  		<name>[INS]Wolf Cub</name>
+  		<text>[Fledgling] - After surviving for 1 turn, the card grows into it's stronger form.</text>
+  		<prop>
+    		<layout>normal</layout>
+    		<side>front</side>
+    		<type>Creature - Squirrel</type>
+    		<maintype>Creature</maintype>
+    		<manacost>1 Blood</manacost>
+    		<cmc>1</cmc>
+    		<colors>G</colors>
+    		<coloridentity>G</coloridentity>
+    		<pt>1/1</pt>
+    		<format-standard>legal</format-standard>
+    		<format-commander>legal</format-commander>
+    		<format-modern>legal</format-modern>
+    		<format-pauper>legal</format-pauper>
+  		</prop>
+  		<set rarity="common" num="005">INS</set>
+		<related>[INS]Wolf</related>
+  		<tablerow>2</tablerow>
+		</card>\
+	<!--006 - Wolf-->
+		<card>
+  		<name>[INS]Wolf</name>
+  		<text>"The Proud Wolf. A vicious contender."</text>
+  		<prop>
+    		<layout>normal</layout>
+    		<side>front</side>
+    		<type>Creature - Squirrel</type>
+    		<maintype>Creature</maintype>
+    		<manacost>2 Blood</manacost>
+    		<cmc>2</cmc>
+    		<colors>G</colors>
+    		<coloridentity>G</coloridentity>
+    		<pt>3/2</pt>
+    		<format-standard>legal</format-standard>
+    		<format-commander>legal</format-commander>
+    		<format-modern>legal</format-modern>
+    		<format-pauper>legal</format-pauper>
+  		</prop>
+  		<set rarity="common" num="006">INS</set>
+  		<tablerow>2</tablerow>
+		</card>
+	<!--007 - Coyote-->
+		<card>
+  		<name>[INS]Coyote</name>
+  		<text>"The meager Coyote. But what did you expect for only four bones?"</text>
+  		<prop>
+    		<layout>normal</layout>
+    		<side>front</side>
+    		<type>Creature - Squirrel</type>
+    		<maintype>Creature</maintype>
+    		<manacost>4 Bones</manacost>
+    		<cmc>4</cmc>
+    		<colors>G</colors>
+    		<coloridentity>G</coloridentity>
+    		<pt>2/1</pt>
+    		<format-standard>legal</format-standard>
+    		<format-commander>legal</format-commander>
+    		<format-modern>legal</format-modern>
+    		<format-pauper>legal</format-pauper>
+  		</prop>
+  		<set rarity="common" num="007">INS</set>
+  		<tablerow>2</tablerow>
+		</card>
+	<!--008 - Alpha-->
+		<card>
+  		<name>[INS]Alpha</name>
+  		<text>[Leader] - Creatures adjacent to a card bearing this sigil gain 1 Power. ~~~ "The venerable Alpha. Its courage emboldens the creatures that stand beside it."</text>
+  		<prop>
+    		<layout>normal</layout>
+    		<side>front</side>
+    		<type>Creature - Squirrel</type>
+    		<maintype>Creature</maintype>
+    		<manacost>5 Bones</manacost>
+    		<cmc>5</cmc>
+    		<colors>G</colors>
+    		<coloridentity>G</coloridentity>
+    		<pt>1/2</pt>
+    		<format-standard>legal</format-standard>
+    		<format-commander>legal</format-commander>
+    		<format-modern>legal</format-modern>
+    		<format-pauper>legal</format-pauper>
+  		</prop>
+  		<set rarity="common" num="008">INS</set>
+  		<tablerow>2</tablerow>
+		</card>
+	<!--009 - Bloodhound-->
+		<card>
+  		<name>[INS]Bloodhound</name>
+  		<text>[Guardian] - When an opposing creature is placed opposite to an empty space, a card bearing this sigil will move to that empty space. ~~~ "The dauntless Bloodhound. It leaps to oppose new creatures when they are played."</text>
+  		<prop>
+    		<layout>normal</layout>
+    		<side>front</side>
+    		<type>Creature - Squirrel</type>
+    		<maintype>Creature</maintype>
+    		<manacost>2 Blood</manacost>
+    		<cmc>2</cmc>
+    		<colors>G</colors>
+    		<coloridentity>G</coloridentity>
+    		<pt>2/3</pt>
+    		<format-standard>legal</format-standard>
+    		<format-commander>legal</format-commander>
+    		<format-modern>legal</format-modern>
+    		<format-pauper>legal</format-pauper>
+  		</prop>
+  		<set rarity="common" num="009">INS</set>
   		<tablerow>2</tablerow>
 		</card>
   </cards>
