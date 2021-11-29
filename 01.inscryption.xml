@@ -97,6 +97,9 @@
   		<set rarity="rare" num="004">INS</set>
   		<tablerow>2</tablerow>
 		</card>
+
+<!--**CANINES**-->
+
 	<!--005 - Wolf Cub-->
 		<card>
   		<name>[INS]Wolf Cub</name>
@@ -206,6 +209,52 @@
     		<format-pauper>legal</format-pauper>
   		</prop>
   		<set rarity="common" num="009">INS</set>
+  		<tablerow>2</tablerow>
+		</card>
+<!--**INSECTS**-->
+
+	<!--010 - Ant Queen-->
+		<card>
+  		<name>[INS]Ant Queen</name>
+  		<text>[Ant Spawner] - When a card bearing this sigil is played, an Ant (Worker Ant) is created in your hand. ~~~ "The Regal Ant Queen. She births a new Ant once played."</text>
+  		<prop>
+    		<layout>normal</layout>
+    		<side>front</side>
+    		<type>Creature - Squirrel</type>
+    		<maintype>Creature</maintype>
+    		<manacost>2 Blood</manacost>
+    		<cmc>2</cmc>
+    		<colors>G</colors>
+    		<coloridentity>G</coloridentity>
+    		<pt>*/3</pt>
+    		<format-standard>legal</format-standard>
+    		<format-commander>legal</format-commander>
+    		<format-modern>legal</format-modern>
+    		<format-pauper>legal</format-pauper>
+  		</prop>
+  		<set rarity="common" num="010">INS</set>
+  		<tablerow>2</tablerow>
+		</card>
+	<!--011 - Worker Ant-->
+		<card>
+  		<name>[INS]Worker Ant</name>
+  		<text>"Ah, the diligent Ant. Its strength is proportionate to the size of its colony."</text>
+  		<prop>
+    		<layout>normal</layout>
+    		<side>front</side>
+    		<type>Creature - Squirrel</type>
+    		<maintype>Creature</maintype>
+    		<manacost>1 Blood</manacost>
+    		<cmc>1</cmc>
+    		<colors>G</colors>
+    		<coloridentity>G</coloridentity>
+    		<pt>*/2</pt>
+    		<format-standard>legal</format-standard>
+    		<format-commander>legal</format-commander>
+    		<format-modern>legal</format-modern>
+    		<format-pauper>legal</format-pauper>
+  		</prop>
+  		<set rarity="common" num="011">INS</set>
   		<tablerow>2</tablerow>
 		</card>
   </cards>
