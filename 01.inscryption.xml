@@ -16,7 +16,7 @@
   		<prop>
     		<layout>normal</layout>
     		<side>front</side>
-    		<type>Creature - Squirrel</type>
+    		<type>Creature - Rodent</type>
     		<maintype>Creature</maintype>
     		<manacost>0</manacost>
     		<cmc>0</cmc>
@@ -38,7 +38,7 @@
   		<prop>
     		<layout>normal</layout>
     		<side>front</side>
-    		<type>Creature - Squirrel</type>
+    		<type>Creature - Canine</type>
     		<maintype>Creature</maintype>
     		<manacost>1 Blood</manacost>
     		<cmc>1</cmc>
@@ -60,7 +60,7 @@
   		<prop>
     		<layout>normal</layout>
     		<side>front</side>
-    		<type>Creature - Squirrel</type>
+    		<type>Creature - Insect</type>
     		<maintype>Creature</maintype>
     		<manacost>2 Bones</manacost>
     		<cmc>2</cmc>
@@ -82,7 +82,7 @@
   		<prop>
     		<layout>normal</layout>
     		<side>front</side>
-    		<type>Creature - Squirrel</type>
+    		<type>Creature - Canine</type>
     		<maintype>Creature</maintype>
     		<manacost>1 Blood</manacost>
     		<cmc>1</cmc>
@@ -107,7 +107,7 @@
   		<prop>
     		<layout>normal</layout>
     		<side>front</side>
-    		<type>Creature - Squirrel</type>
+    		<type>Creature - Canine</type>
     		<maintype>Creature</maintype>
     		<manacost>1 Blood</manacost>
     		<cmc>1</cmc>
@@ -130,7 +130,7 @@
   		<prop>
     		<layout>normal</layout>
     		<side>front</side>
-    		<type>Creature - Squirrel</type>
+    		<type>Creature - Canine</type>
     		<maintype>Creature</maintype>
     		<manacost>2 Blood</manacost>
     		<cmc>2</cmc>
@@ -152,7 +152,7 @@
   		<prop>
     		<layout>normal</layout>
     		<side>front</side>
-    		<type>Creature - Squirrel</type>
+    		<type>Creature - Canine</type>
     		<maintype>Creature</maintype>
     		<manacost>4 Bones</manacost>
     		<cmc>4</cmc>
@@ -174,7 +174,7 @@
   		<prop>
     		<layout>normal</layout>
     		<side>front</side>
-    		<type>Creature - Squirrel</type>
+    		<type>Creature - Canine</type>
     		<maintype>Creature</maintype>
     		<manacost>5 Bones</manacost>
     		<cmc>5</cmc>
@@ -196,7 +196,7 @@
   		<prop>
     		<layout>normal</layout>
     		<side>front</side>
-    		<type>Creature - Squirrel</type>
+    		<type>Creature - Canine</type>
     		<maintype>Creature</maintype>
     		<manacost>2 Blood</manacost>
     		<cmc>2</cmc>
@@ -220,7 +220,7 @@
   		<prop>
     		<layout>normal</layout>
     		<side>front</side>
-    		<type>Creature - Squirrel</type>
+    		<type>Creature - Insect</type>
     		<maintype>Creature</maintype>
     		<manacost>2 Blood</manacost>
     		<cmc>2</cmc>
@@ -242,7 +242,7 @@
   		<prop>
     		<layout>normal</layout>
     		<side>front</side>
-    		<type>Creature - Squirrel</type>
+    		<type>Creature - Insect</type>
     		<maintype>Creature</maintype>
     		<manacost>1 Blood</manacost>
     		<cmc>1</cmc>
